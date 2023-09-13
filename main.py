@@ -1,6 +1,6 @@
 import discord 
 from discord.ext import commands 
-from function.buttons import Buttonify
+from buttons import Buttonify
 from config import token
 
 
